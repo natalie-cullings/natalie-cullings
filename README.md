@@ -1,7 +1,17 @@
-### Hi there 👋
+## Hi! I'm Natalie Cullings.
+<!-- [![Gmail Badge](https://img.shields.io/badge/-natalieecullings@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:natalieecullings@gmail.com)](mailto:natalieecullings@gmail.com) -->
+[![Linkedin Badge](https://img.shields.io/badge/-nataliecullings-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nataliecullings/)](https://www.linkedin.com/in/nataliecullings/) [![Github Badge](https://img.shields.io/badge/-nataliecullings-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nataliecullings/)](https://www.github.com/nataliecullings/) 
 
 <!--
-**natalie-cullings/natalie-cullings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=nataliecullings alt=nataliecullings /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nataliecullings&show_icons=true&include_all_commits=true)](https://github.com/nataliecullings/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliecullings&layout=compact)](https://github.com/nataliecullings/github-readme-stats)
+-->
+
+
+<!--
 
 Here are some ideas to get you started:
 
