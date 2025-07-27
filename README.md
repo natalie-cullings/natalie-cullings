@@ -12,9 +12,9 @@
 
 
 ### Welcome to my Portfolio!  
-I'm a Senior Product Analyst with 7+ years of dedicated product, marketing, and web analytics experience at industry-leading SaaS companies such as MongoDB, Toast, and GoTo (formerly LogMeIn). I recently earned my certificate in TripleTen’s 8-month Data Science Program (bootcamp) and enjoy continuously developing new and existing skills in my free time. 
+I'm a Senior Product Analyst with 7+ years of dedicated product, marketing, and web analytics experience at industry-leading SaaS companies such as MongoDB, Toast, and GoTo (formerly LogMeIn). I earned my certificate in TripleTen’s 8-month Data Science Program (bootcamp) in November 2024 and enjoy continuously developing new and existing skills in my free time. 
 
-As a queer, non-binary individual, I care deeply about diversity & inclusion and align myself with organizations that champion these values in their business practices and culture. Giving back to my community is particularly important to me. I have volunteered weekly with The Trevor Project for 3+ years and held an active leadership position on the board of Toast's LGBTQ+ employee resource group.  
+As a queer, non-binary individual, I care deeply about diversity & inclusion and align myself with organizations that champion these values in their business practices and culture. Giving back to my community is particularly important to me.  
   
 
 <br/>  
